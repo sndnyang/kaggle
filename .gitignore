@@ -1,0 +1,6 @@
+*csv
+*.zip
+*.rar
+*.pyc
+
+.ipynb_checkpoints
